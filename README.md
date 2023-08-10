@@ -1,5 +1,9 @@
 # How to replay missing Matomo requests to Matomo
 
+>**GOV.UK Verify has closed**
+>
+>This repository is out of date and has been archived
+
 You need to install [gds-cli](https://github.com/alphagov/gds-cli) on your computer before following these steps to get missing Matomo requests from AWS CloudWatch and replay them to Matomo.
 
 1. Run the following command to obtain a session token from the AWS Security Token Service in Tools AWS account using gds-cli.
